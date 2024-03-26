@@ -1722,6 +1722,7 @@ options:
                     - '73'
                     - '86'
                     - '76'
+                    - 'Europe\Amsterdam'
             tp_mc_skip_policy:
                 description:
                     - Enable/disable skip policy check and allow multicast through.
